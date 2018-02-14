@@ -1,4 +1,4 @@
-# LifeDeathStarterBot
+# Life and death starter bot
 
 This is a starter bot for the [Game of life and death over at riddles.io](https://starapple.riddles.io/competitions/game-of-life-and-death), written by me so that you don't have to.
 
